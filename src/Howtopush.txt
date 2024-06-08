@@ -1,0 +1,12 @@
+git status
+
+git add .
+
+check again git status
+
+git commit -m "Write your commit"
+
+git push origin main
+
+
+It should basically push all to new website.

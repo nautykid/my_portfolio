@@ -52,8 +52,10 @@
 */
 
 .home__description{
-    max-width: 400px;
+    /*max-width: 400px; */
+    max-width: 650rem;
     margin-bottom: var(--mb-3);
+    text-align: justify;
 }
 
 .home__title{

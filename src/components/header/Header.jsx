@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import "./header.css";
-
+ 
 const Header = () => {
-    /* ===========Toggle Menu ======= */
+    /* == ===Toggle Menu ======= */
     const [Toggle, showMenu] = useState(false);
 
   return (
-    <header className="header">
+    <header cla ="header">
         <nav className="nav container">
             <a href="index.html" className="nav__logo">Bhuwan</a>
 

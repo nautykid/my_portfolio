@@ -1,0 +1,10 @@
+git pull
+
+# Make changes and save
+git add .
+git commit -m "Work done at office" or from home
+
+# Push again
+git push
+
+
